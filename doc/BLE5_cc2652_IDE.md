@@ -126,6 +126,18 @@ solution
 sudo apt-get install libpython2.7
 ```
 
+log
+
+```shell
+Failed to locate 32-bit system libraries required for installation to continue:libc6-i386
+```
+
+solution
+
+```shell
+sudo apt-get install libc6-i386
+```
+
 - error #10234-D: unresolved symbols remain
 
 this error is typically generated when the include path/variable to a library is missing/in need of correction.
