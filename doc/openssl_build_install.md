@@ -3,7 +3,7 @@
 ## install dependencies
 
 ```shell
-sudo apt-get install gcc -y
+sudo apt-get install gcc make -y
 ```
 
 ## clone openssl code to local
