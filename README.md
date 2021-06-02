@@ -14,8 +14,6 @@
 
 - [嵌入式常见问题](doc/嵌入式常见问题.md)
 
-- [git 冷门操作](doc/git冷门操作.md)
-
 - [嵌入式软件工程师如何画设计图](doc/嵌入式软件工程师如何画设计图.md)
 
 - [MCU 的 bootloader](doc/MCU的bootloader.md)
@@ -137,6 +135,8 @@
 - [git 基本操作](doc/git基本操作.md)
 
 - [git 图形界面工具](doc/git图形界面工具.md)
+
+- [git 冷门操作](doc/git冷门操作.md)
 
 ## python
 
