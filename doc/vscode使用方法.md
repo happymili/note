@@ -14,7 +14,7 @@
 - [ ] C/C++ compile Run
 - [ ] C++ Intellisense
 - [ ] Git Extensions for VS Code
-- [x] GitLens
+- [ ] GitLens
 - [ ] markdownlint
 - [x] Material Icon Theme
 - [x] Prettier (formatter)
