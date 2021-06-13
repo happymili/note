@@ -21,6 +21,7 @@
 - [x] Text Marker (Highlighter)
 - [ ] vim
 - [ ] x509 parser
+- [ ] Remote - WSL
 
 ## workspace
 
