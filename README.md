@@ -96,6 +96,8 @@
 
 - [install sougou pinyin](doc/install_sougou_pinyin.md)
 
+- [打包与解压库文件](doc/打包与解压库文件.md)
+
 ## 网络
 
 - [网络抓包的一些方法](doc/网络抓包的一些方法.md)
