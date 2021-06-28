@@ -130,6 +130,8 @@
 
 - [Jlink 接口分布图](doc/Jlink接口分布图.md)
 
+- [Jlink 执行脚本](doc/Jlink执行脚本.md)
+
 - [usb232 driver](doc/usb232_driver.md)
 
 - [stlink](doc/stlink_install.md)
