@@ -1,0 +1,6 @@
+* [Download Ubuntun iso](https://ubuntu.com/download/desktop)
+* [Rufus, a free and open source USB stick writing tool](https://rufus.ie/)
+* [Ubuntu tutorials](https://tutorials.ubuntu.com/)
+  * [Install Ubuntun desktop](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0)
+    * [Create a bootable USB stick on windows](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0)
+    * [Create a bootable USB stick on Ubuntun](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0)
